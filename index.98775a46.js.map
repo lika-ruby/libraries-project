@@ -1,0 +1,1 @@
+{"mappings":"ACAA,MAAM","sources":["<anon>","src/index.js"],"sourcesContent":["var $35da740d59af89ba$exports = {};\nalert(\"Hello world\");\n\n\n//# sourceMappingURL=index.98775a46.js.map\n","alert(\"Hello world\");\r\n"],"names":["alert"],"version":3,"file":"index.98775a46.js.map"}
