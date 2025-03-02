@@ -2,7 +2,7 @@
   "name": "libraries-project",
   "version": "1.0.0",
   "description": "",
-  "homepage":"https://lika-ruby.github.io/libraries-project/",
+  "homepage": "https://lika-ruby.github.io/libraries-project/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel src/index.html",
@@ -10,7 +10,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
